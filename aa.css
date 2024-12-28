@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:rgb(0, 0, 0);
+    text-align: center;
+    margin-top: 100px;
+}
+.TEXT{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+}
+#first{
+    width: 300px;
+    size: 400px;
+    color: rgb(0, 0, 0);
+    border-radius: 40px;
+}
+#operat{
+    width: 300px;
+    size: 400px;
+    color: rgb(255, 255, 255);
+    border-radius: 40px;
+    background-color: rgb(46, 49, 45);
+}
+#scound{
+    width: 300px;
+    size: 400px;
+    color: black;
+border-radius: 40px;
+}
+#calcButton{
+    background-color: rgb(136, 124, 124);
+    color: rgb(255, 255, 255);
+    width: 200px;
+    border-radius: 50px;
+    font-size: 30px;
+}
+#result{
+    color: rgb(206, 206, 206);
+   margin-top: 50px;
+}
+
